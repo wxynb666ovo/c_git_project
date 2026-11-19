@@ -2,7 +2,7 @@
 #include "func.h"
 
 void test_func(){
-    printf("分支内新增函数test_func\n");
+    printf("【我】分支新增函数test_func\n");
 }
 
 int main(){
