@@ -2,7 +2,7 @@
 #include "func.h"
 
 void test_func(){
-    printf("【我】分支新增函数test_func\n");
+    printf("【本地端】修改test_func内容\n");
 }
 
 int main(){
